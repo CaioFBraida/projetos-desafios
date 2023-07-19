@@ -1,0 +1,16 @@
+:root{
+    --cor-primaria:#667085
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1em;
+}
+
+.link{
+    text-decoration: none;
+    color: var(--cor-primaria);
+    padding: 1em;
+}
+
